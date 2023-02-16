@@ -1,0 +1,22 @@
+{
+  "name": "bot-leave",
+  "version": "1.0.0",
+  "description": "Скрипт, который заставляет бота выйти со всех серверов, где меньше определённого количества участников.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "discord.js",
+    "discord.js-bot",
+    "bot-leaver",
+    "bot-leave",
+    "guild-leaver",
+    "guild-leave"
+  ],
+  "author": "Qwedi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
