@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const config = require("./config.js")
-const client = new Discord.Client({ intents: 98045 });
+const client = new Discord.Client({ intents: 3276799 });
 
 const token = config.token;
 const members = config.members;
